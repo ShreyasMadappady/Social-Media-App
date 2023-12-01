@@ -1,0 +1,15 @@
+.size {
+  width: 25.8rem;
+  height: 50.4rem;
+  border: solid 0.01px rgb(205, 195, 195);
+  border-radius: 10px;
+}
+
+.padding {
+  padding: 2rem;
+}
+
+.h1style {
+  color: rgba(0, 0, 0, 0.804);
+  font-weight: 600;
+}

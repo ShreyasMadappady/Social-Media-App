@@ -1,0 +1,11 @@
+.flex {
+  display: flex;
+  gap: 2rem;
+}
+
+/* .borderline {
+  padding-right: 2rem;
+  border-right: solid black 0.1px;
+  width: 25px;
+  height: 25px;
+} */

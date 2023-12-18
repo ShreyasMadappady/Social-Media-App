@@ -2,6 +2,8 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 2rem 2rem;
-  background-color: rgb(250, 249, 247);
+  padding: 3.5rem 2rem;
+  background-color: white;
+  grid-column: 2/3;
+  height: 50px;
 }

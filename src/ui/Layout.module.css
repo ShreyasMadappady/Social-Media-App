@@ -1,0 +1,10 @@
+.grid {
+  display: grid;
+  grid-template-columns: auto 1fr;
+
+}
+.flex {
+  display: flex;
+  overflow-y: hidden;
+justify-content: space-around;
+}
